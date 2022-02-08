@@ -28,14 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+🔷 Name : NOAHSCHNAP 
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+🔷 Creator : @MOHD_HANEEN
 
-➥ Language : Python3
+🔷 Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+🔷 Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+🔷 MOVIE GROUP: @CINEMA_CENTER
 """
